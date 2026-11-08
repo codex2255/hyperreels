@@ -1,0 +1,1 @@
+placeholder voice: one tone per script word at the hand-written timing in props/example-acme.json. A real Reel uses eleven_voice.mjs and time_voice.py.

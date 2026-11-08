@@ -1,0 +1,3 @@
+Built by make_backdrop.py from backdrop-source.png (16 s loop, zoom 1.12-1.22, gamma 1, saturation 1).
+Source of backdrop-source.png:
+generated placeholder (examples/make_acme.py). Not a real photo or clip. Replace with client-supplied or owned media.

@@ -1,0 +1,16 @@
+{
+ "subject": "Acme Coffee Roasters",
+ "note": "FICTIONAL EXAMPLE. Acme is made up, so these entries only show the shape. For a real Reel every script sentence needs at least one real quote and URL (or the client's written confirmation), checked by a second person.",
+ "client_ok": {"who": "Owner name (client)", "how": "email", "date": "YYYY-MM-DD", "note": "Agreed the subject, the script and the media list"},
+ "lines": [
+  {"line": "Who roasts the coffee in your morning flat white?", "type": "hook", "evidence": []},
+  {"line": "Meet Acme Coffee Roasters.", "evidence": [{"quote": "Acme Coffee Roasters", "url": "https://example.com/about", "checked": "YYYY-MM-DD"}]},
+  {"line": "In 2014, two friends bought a secondhand roaster and set it up in a garage.", "evidence": [{"quote": "We started in 2014 in a garage with a secondhand roaster", "url": "https://example.com/about", "checked": "YYYY-MM-DD"}]},
+  {"line": "They burned a hundred batches before one tasted right.", "evidence": [{"quote": "about a hundred burnt batches", "url": "https://example.com/news/interview", "checked": "YYYY-MM-DD"}]},
+  {"line": "Today they roast six days a week, in small batches, for forty local cafes.", "evidence": [{"quote": "roasting Monday to Saturday for around 40 cafes", "url": "https://example.com/wholesale", "checked": "YYYY-MM-DD"}]},
+  {"line": "Every bag is stamped with the day it was roasted, so you always know it's fresh.", "evidence": [{"quote": "Every bag carries its roast date", "url": "https://example.com/faq", "checked": "YYYY-MM-DD"}]},
+  {"line": "So which blend is yours?", "type": "question", "evidence": []},
+  {"line": "Taste Acme at the Saturday market, or order online.", "type": "cta", "evidence": [{"quote": "Find us at the Saturday market", "url": "https://example.com/visit", "checked": "YYYY-MM-DD"}]}
+ ],
+ "names_checked": [{"name": "Founder names, if spoken", "against": "client's own spelling (email or website)", "checked": "YYYY-MM-DD"}]
+}

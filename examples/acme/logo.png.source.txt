@@ -1,0 +1,1 @@
+generated placeholder logo for a fictional business (examples/make_acme.py). Use the client's own logo file.
