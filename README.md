@@ -17,7 +17,7 @@ story reel"). This README is the reference.
 ## Install
 
 ```bash
-git clone https://github.com/<owner>/story-reels.git
+git clone https://github.com/codex2255/hyperreels.git
 cd story-reels
 npm i                                  # HyperFrames, GSAP and the ElevenLabs SDK, pinned
 pip3 install numpy pillow
